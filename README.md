@@ -102,4 +102,4 @@ If you would like to contribute, please contact me at jason@smithstrategy.com
 
 
 ## License
-This project is licensed under the MIT license - see the [https://github.com/mtbikerj/abi/blob/master/LICENSE](License.md) file for details.
+This project is licensed under the MIT license - see the [LICENSE.md](License.md) file for details.
